@@ -6,3 +6,5 @@ https://api.codiga.io/project/33418/status/svg
 https://api.codiga.io/project/33418/score/svg
 
 [![Build-Linux](https://github.com/Shawinkrishna/M3_Wiper_Control_System/actions/workflows/Build%20on%20linux.yml/badge.svg)](https://github.com/Shawinkrishna/M3_Wiper_Control_System/actions/workflows/Build%20on%20linux.yml)
+
+[![Cppcheck Analysis](https://github.com/Shawinkrishna/M3_Wiper_Control_System/actions/workflows/Cppcheck%20Analysis.yml/badge.svg)](https://github.com/Shawinkrishna/M3_Wiper_Control_System/actions/workflows/Cppcheck%20Analysis.yml)
